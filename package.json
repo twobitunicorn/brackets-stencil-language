@@ -1,0 +1,13 @@
+{
+  "name": "brackets-stencil-language",
+  "title": "Stencil Language Support",
+  "description": "Adds support for the Stencil template language.",
+  "homepage": "https://github.com/twobitunicorn/brackets-stencil-language",
+  "version": "0.0.1",
+  "author": "Joseph N. Ruskiewicz <joseph@sourcecheck.cc>",
+  "license": "MIT",
+  "keywords": ["stencil", "html", "language", "swift"],
+  "engines": {
+    "brackets": ">=0.24.0"
+  }
+}
